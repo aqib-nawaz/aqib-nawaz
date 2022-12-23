@@ -10,7 +10,7 @@
 - ⚡ Fun fact **I'm a quick learner.**
 
 
-<!-- <p align="left"><a href="https://twitter.com/itsAqibnawaz" target="blank"><img src="https://img.shields.io/twitter/follow/itsAqibnawaz?logo=twitter&style=for-the-badge" alt="itsAqibnawaz"/></a></p> -->
+<!-- <p align="left"><a href="https://twitter.com/itsAqibnawaz" target="blank"><img src="https://img.shields.io/twitter/follow/aqib-nawaz?logo=twitter&style=for-the-badge" alt="itsAqibnawaz"/></a></p> -->
 <br/>  
 
 
