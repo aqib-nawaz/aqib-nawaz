@@ -10,7 +10,7 @@
 - ⚡ Fun fact **I'm a quick learner.**
 
 
-<!-- <p align="left"><a href="https://twitter.com/itsAqibnawaz" target="blank"><img src="https://img.shields.io/twitter/follow/aqib-nawaz?logo=twitter&style=for-the-badge" alt="itsAqibnawaz"/></a></p> -->
+<!-- <p align="left"><a href="https://twitter.com/itsAqibnawaz" target="blank"><img src="https://img.shields.io/twitter/follow/itsAqibnawaz?logo=twitter&style=for-the-badge" alt="itsAqibnawaz"/></a></p> -->
 <br/>  
 
 
@@ -58,7 +58,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=aqib-nawaz">
 </a>
-<a href="https://github.com/aqib-nawaz?tab=followers"><img src="https://img.shields.io/github/followers/itsAqibnawaz?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/aqib-nawaz?tab=followers"><img src="https://img.shields.io/github/followers/aqib-nawaz?label=Followers&style=social" alt="GitHub Badge"></a>
 <!-- <br/>
 
 [![Aqib Nawaz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aqib-nawaz&bg_color=000000&color=53bad6&line=53bad6&point=00f5f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
